@@ -1,11 +1,11 @@
 # Absinth's MPV config
 My own mpv config, using vulkan api.
 
-HOW TO INSTALL:
+## HOW TO INSTALL:
 
--DROP MPV FOLDER TO YOUR %APPDATA% FOLDER
+1) DROP MPV FOLDER TO YOUR %APPDATA% FOLDER
 
--CHANGE USERNAME OF YOUR COMPUTER FROM MY (TROYA) TO YOURS IN SCRIPTS DIRECTORY
+2) CHANGE USERNAME OF YOUR COMPUTER FROM MY (TROYA) TO YOURS IN SCRIPTS DIRECTORY
 
 example:
  >glsl-shaders-append="C:\Users\Troya\AppData\Roaming\mpv\shaders/KrigBilateral.glsl"
