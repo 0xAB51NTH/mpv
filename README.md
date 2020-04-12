@@ -5,9 +5,9 @@ HOW TO INSTALL:
 -DROP MPV FOLDER TO YOUR %APPDATA% FOLDER
 -CHANGE USERNAME OF YOUR COMPUTER FROM MY (TROYA) TO YOURS IN SCRIPTS DIRECTORY
 example:
-- glsl-shaders-append="C:\Users\Troya\AppData\Roaming\mpv\shaders/KrigBilateral.glsl"
+ >glsl-shaders-append="C:\Users\Troya\AppData\Roaming\mpv\shaders/KrigBilateral.glsl"
 to
-- glsl-shaders-append="C:\Users\YourUsername\AppData\Roaming\mpv\shaders/KrigBilateral.glsl"
+ >glsl-shaders-append="C:\Users\YourUsername\AppData\Roaming\mpv\shaders/KrigBilateral.glsl"
 
 Used shaders:
 - SSimDownscaler (Luma downscale)
