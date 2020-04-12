@@ -1,5 +1,6 @@
 # Absinth's MPV config
 My own mpv config, using vulkan api.
+
 Made for watching anime but can be used for TV shows and movies.
 
 ## HOW TO INSTALL:
