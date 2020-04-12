@@ -7,7 +7,7 @@ Made for watching anime but can be used for TV shows and movies.
 
 1) DROP MPV FOLDER TO YOUR %APPDATA% FOLDER
 
-2) CHANGE USERNAME OF YOUR COMPUTER FROM MY (TROYA) TO YOURS IN SCRIPTS DIRECTORY
+2) CHANGE COMPUTER USERNAME IN SCRIPT FROM MY (TROYA) TO YOUR'S
 
 example:
  >glsl-shaders-append="C:\Users\Troya\AppData\Roaming\mpv\shaders/KrigBilateral.glsl"
