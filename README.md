@@ -14,12 +14,12 @@ to
 
  >glsl-shaders-append="C:\Users\YourUsername\AppData\Roaming\mpv\shaders/KrigBilateral.glsl"
 
-Used shaders:
+## Used shaders:
 - SSimDownscaler (Luma downscale)
 - FSRCNNX_x2_8-0-4-1 (Luma upscale)
 - KrigBilateral (Chroma downscale and upscale)
 - static luma noise
 - static chroma noise
 
-Used scripts:
+## Used scripts:
 - autoload.lua
