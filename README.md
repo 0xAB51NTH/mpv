@@ -18,7 +18,7 @@ to
 
  >glsl-shaders-append="C:\Users\YourUsername\AppData\Roaming\mpv\shaders/KrigBilateral.glsl"
  
- 4) Start Your mpv and you should be able to see that it works, right lick opens up menu.
+ 4) Start Your mpv and you should be able to see that it works, right click opens up menu.
 
 ## Used shaders:
 - SSimDownscaler (Luma downscale)
