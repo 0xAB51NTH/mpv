@@ -1,11 +1,10 @@
 # Absinth's MPV config
-My own mpv config, using vulkan api.
-
-Made for watching anime but can be used for TV shows and movies.
+My own mpv config, utilizing vulkan api.
+Main usecase for me was watching anime but im pretty sure you can watch all sorts of videos with it :)
 
 ## HOW TO INSTALL:
 
-1) DROP FILES TO YOUR MPV FOLDER IN %APPDATA% (CREATE IT IF THERE IS NO MPV FOLDER)
+1) Drop files in your "mpv" folder in %APPDATA% (CREATE IT IF THERE IS NO MPV FOLDER)
 2) Start Your mpv and you should be able to see that it works.
 
 ## Used shaders:
@@ -16,5 +15,5 @@ Made for watching anime but can be used for TV shows and movies.
 
 ## Used scripts:
 - autoload.lua
-- mpv-gif.lua
+- mpv-gif.lua (I like to make a gif sometimes [requires ffmpeg installed])
 - titleresolver.lua
